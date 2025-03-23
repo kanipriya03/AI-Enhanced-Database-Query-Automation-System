@@ -1,5 +1,4 @@
 # AI-Enhanced-Database-Query-Automation-System
-# MongoDB Query Chatbot
 
 ## Overview
 This project is a chatbot that interacts with a MongoDB database using LangChain and Ollama's LLM. The chatbot can execute MongoDB queries, maintain conversation history, and summarize interactions for efficient memory management.
